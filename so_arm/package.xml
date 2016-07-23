@@ -1,0 +1,27 @@
+<package>
+  <name>so_arm</name>
+  <version>0.1.0</version>
+  <description>
+    The SO arm meta package.
+  </description>
+  <author>Marco Walther</author>
+  <maintainer email="marco@sonic.net">Marco Walther</maintainer>
+  <license>BSD</license>
+  <url type="website">http://ros.org/wiki/so_arm_not_existing</url>
+  <url type="repository">https://github.com/mw46d/soarm/so_arm</url>
+  <url type="bugtracker">https://github.com/mw46d/soarm/so_arm/issues</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <run_depend>so_arm_bringup</run_depend>
+  <run_depend>so_arm_description</run_depend>
+  <run_depend>so_arm_ikfast_plugin</run_depend>
+  <run_depend>so_arm_block_manipulation</run_depend>
+  <run_depend>so_arm_kinect_calibration</run_depend>
+  <run_depend>so_arm_moveit_config</run_depend>
+  <run_depend>so_arm_moveit_demos</run_depend>
+
+  <export>
+    <metapackage/>
+  </export>
+</package>

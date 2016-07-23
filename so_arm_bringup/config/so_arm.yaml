@@ -1,0 +1,21 @@
+source: so_arm.yaml
+port: /dev/ttyUSB0
+sync_write: false
+read_rate: 15
+write_rate: 25
+joints: {
+    shoulder_plate_rotate_joint: { id: 1, invert: true, neutral: 512, max_angle: 150, min_angle: -150, max_speed: 684.0, type: dynamixel },
+    shoulder_lift_joint: { id: 2, invert: true, neutral: 512, max_angle: 85, min_angle: -2, max_speed: 684.0, type: dynamixel },
+    elbow_flex_joint: { id: 3, neutral: 512, max_angle: 140, min_angle: 0, max_speed: 684.0, type: dynamixel },
+    wrist_flex_joint: { id: 4, neutral: 512, max_angle: 95, min_angle: -95, max_speed: 684.0, type: dynamixel },
+    wrist_pan_joint: { id: 5, neutral: 512, max_angle: 145, min_angle: -145, max_speed: 684.0, type: dynamixel },
+    gripper_left_joint: { id: 0, max_angle: 140, min_angle: 50, max_speed: 500, type: hobby_prismatic, radius: 0.0085, connector: 0.017, offset: 0.0105, angle_offset: -1.0 }
+}
+controllers: {
+    arm_controller: {
+        type: follow_controller,
+        joints: [ shoulder_plate_rotate_joint, shoulder_lift_joint, elbow_flex_joint, wrist_flex_joint, wrist_pan_joint ],
+        action_name: arm_controller/follow_joint_trajectory,
+        onboard: False
+    }
+}

@@ -1,0 +1,819 @@
+    <group_state name="B1_1over" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-1.96860868" />
+        <joint name="shoulder_lift_joint" value="-1.31922348" />
+        <joint name="elbow_flex_joint" value="2.10155368" />
+        <joint name="wrist_flex_joint" value="0.92550174" />
+        <joint name="wrist_pan_joint" value="0.32724923" />
+    </group_state>
+    <group_state name="B1_2grab" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-1.95326887" />
+        <joint name="shoulder_lift_joint" value="-1.28854386" />
+        <joint name="elbow_flex_joint" value="2.18847926" />
+        <joint name="wrist_flex_joint" value="0.71074443" />
+        <joint name="wrist_pan_joint" value="0.33236250" />
+    </group_state>
+    <group_state name="B2_1over" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-1.80498406" />
+        <joint name="shoulder_lift_joint" value="-1.42660213" />
+        <joint name="elbow_flex_joint" value="2.23961195" />
+        <joint name="wrist_flex_joint" value="0.79767001" />
+        <joint name="wrist_pan_joint" value="0.31702270" />
+    </group_state>
+    <group_state name="B2_2grab" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-1.79475752" />
+        <joint name="shoulder_lift_joint" value="-1.31922348" />
+        <joint name="elbow_flex_joint" value="2.26006503" />
+        <joint name="wrist_flex_joint" value="0.76699039" />
+        <joint name="wrist_pan_joint" value="0.30679616" />
+    </group_state>
+    <group_state name="B3_1over" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-1.49818790" />
+        <joint name="shoulder_lift_joint" value="-1.46750829" />
+        <joint name="elbow_flex_joint" value="2.27029157" />
+        <joint name="wrist_flex_joint" value="0.77721693" />
+        <joint name="wrist_pan_joint" value="-0.02045308" />
+    </group_state>
+    <group_state name="B3_2grab" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-1.48284809" />
+        <joint name="shoulder_lift_joint" value="-1.35501636" />
+        <joint name="elbow_flex_joint" value="2.29074464" />
+        <joint name="wrist_flex_joint" value="0.70563116" />
+        <joint name="wrist_pan_joint" value="-0.02045308" />
+    </group_state>
+    <group_state name="B4_1over" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-1.18116521" />
+        <joint name="shoulder_lift_joint" value="-1.42148886" />
+        <joint name="elbow_flex_joint" value="2.21915887" />
+        <joint name="wrist_flex_joint" value="0.86925578" />
+        <joint name="wrist_pan_joint" value="-0.33236250" />
+    </group_state>
+    <group_state name="B4_2grab" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-1.18116521" />
+        <joint name="shoulder_lift_joint" value="-1.32945002" />
+        <joint name="elbow_flex_joint" value="2.25495176" />
+        <joint name="wrist_flex_joint" value="0.69029135" />
+        <joint name="wrist_pan_joint" value="-0.33236250" />
+    </group_state>
+    <group_state name="B5_1over" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.94084155" />
+        <joint name="shoulder_lift_joint" value="-1.33456329" />
+        <joint name="elbow_flex_joint" value="2.13734656" />
+        <joint name="wrist_flex_joint" value="0.80278328" />
+        <joint name="wrist_pan_joint" value="-0.58802597" />
+    </group_state>
+    <group_state name="B5_2grab" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.93572828" />
+        <joint name="shoulder_lift_joint" value="-1.20161828" />
+        <joint name="elbow_flex_joint" value="2.11178022" />
+        <joint name="wrist_flex_joint" value="0.79767001" />
+        <joint name="wrist_pan_joint" value="-0.58802597" />
+    </group_state>
+    <group_state name="D1_1over" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.54200655" />
+        <joint name="shoulder_lift_joint" value="-1.40614906" />
+        <joint name="elbow_flex_joint" value="2.32142426" />
+        <joint name="wrist_flex_joint" value="0.66472501" />
+        <joint name="wrist_pan_joint" value="0.55734635" />
+    </group_state>
+    <group_state name="D1_2grab" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.54200655" />
+        <joint name="shoulder_lift_joint" value="-1.31411021" />
+        <joint name="elbow_flex_joint" value="2.31119772" />
+        <joint name="wrist_flex_joint" value="0.61870558" />
+        <joint name="wrist_pan_joint" value="0.55223308" />
+    </group_state>
+    <group_state name="D1_3over" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.43462789" />
+        <joint name="shoulder_lift_joint" value="-1.09423963" />
+        <joint name="elbow_flex_joint" value="2.10666695" />
+        <joint name="wrist_flex_joint" value="-0.94084155" />
+        <joint name="wrist_pan_joint" value="-0.02556635" />
+    </group_state>
+    <group_state name="D1_4drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.41928808" />
+        <joint name="shoulder_lift_joint" value="-0.79255674" />
+        <joint name="elbow_flex_joint" value="2.07598733" />
+        <joint name="wrist_flex_joint" value="-1.23229790" />
+        <joint name="wrist_pan_joint" value="-0.02556635" />
+    </group_state>
+    <group_state name="D1_5over" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.39883500" />
+        <joint name="shoulder_lift_joint" value="-0.96640790" />
+        <joint name="elbow_flex_joint" value="1.56977367" />
+        <joint name="wrist_flex_joint" value="1.04310694" />
+        <joint name="wrist_pan_joint" value="-0.02556635" />
+    </group_state>
+    <group_state name="D1_6grab" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.39883500" />
+        <joint name="shoulder_lift_joint" value="-0.82834963" />
+        <joint name="elbow_flex_joint" value="1.53909406" />
+        <joint name="wrist_flex_joint" value="0.96640790" />
+        <joint name="wrist_pan_joint" value="-0.02556635" />
+    </group_state>
+    <group_state name="D1_7over" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.40394827" />
+        <joint name="shoulder_lift_joint" value="-1.15048559" />
+        <joint name="elbow_flex_joint" value="2.06576079" />
+        <joint name="wrist_flex_joint" value="-0.94084155" />
+        <joint name="wrist_pan_joint" value="-0.02556635" />
+    </group_state>
+    <group_state name="D1_8drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.40906154" />
+        <joint name="shoulder_lift_joint" value="-0.79255674" />
+        <joint name="elbow_flex_joint" value="2.07598733" />
+        <joint name="wrist_flex_joint" value="-1.22207136" />
+        <joint name="wrist_pan_joint" value="-0.02556635" />
+    </group_state>
+    <group_state name="D2_1over" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.19430423" />
+        <joint name="shoulder_lift_joint" value="-1.55443387" />
+        <joint name="elbow_flex_joint" value="2.36744368" />
+        <joint name="wrist_flex_joint" value="0.83857616" />
+        <joint name="wrist_pan_joint" value="0.12783173" />
+    </group_state>
+    <group_state name="D2_2grab" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.19430423" />
+        <joint name="shoulder_lift_joint" value="-1.41637559" />
+        <joint name="elbow_flex_joint" value="2.43391618" />
+        <joint name="wrist_flex_joint" value="0.56757289" />
+        <joint name="wrist_pan_joint" value="0.17896443" />
+    </group_state>
+    <group_state name="D2_3over" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.19430423" />
+        <joint name="shoulder_lift_joint" value="-1.30899694" />
+        <joint name="elbow_flex_joint" value="2.33165080" />
+        <joint name="wrist_flex_joint" value="-1.03799367" />
+        <joint name="wrist_pan_joint" value="-0.02045308" />
+    </group_state>
+    <group_state name="D2_4drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.20453077" />
+        <joint name="shoulder_lift_joint" value="-0.83857616" />
+        <joint name="elbow_flex_joint" value="2.26006503" />
+        <joint name="wrist_flex_joint" value="-1.35501636" />
+        <joint name="wrist_pan_joint" value="0.03579289" />
+    </group_state>
+    <group_state name="D2_5over" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.19941750" />
+        <joint name="shoulder_lift_joint" value="-1.08401309" />
+        <joint name="elbow_flex_joint" value="1.72828502" />
+        <joint name="wrist_flex_joint" value="1.03799367" />
+        <joint name="wrist_pan_joint" value="0.03579289" />
+    </group_state>
+    <group_state name="D2_6grab" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.19941750" />
+        <joint name="shoulder_lift_joint" value="-0.94084155" />
+        <joint name="elbow_flex_joint" value="1.73851156" />
+        <joint name="wrist_flex_joint" value="0.89482213" />
+        <joint name="wrist_pan_joint" value="0.04090615" />
+    </group_state>
+    <group_state name="D2_7over" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.20453077" />
+        <joint name="shoulder_lift_joint" value="-1.43682867" />
+        <joint name="elbow_flex_joint" value="2.26517830" />
+        <joint name="wrist_flex_joint" value="-0.85902924" />
+        <joint name="wrist_pan_joint" value="0.04090615" />
+    </group_state>
+    <group_state name="D2_8drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.20453077" />
+        <joint name="shoulder_lift_joint" value="-0.84368943" />
+        <joint name="elbow_flex_joint" value="2.24983849" />
+        <joint name="wrist_flex_joint" value="-1.33967655" />
+        <joint name="wrist_pan_joint" value="0.02045308" />
+    </group_state>
+    <group_state name="D3_1over" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.20964404" />
+        <joint name="shoulder_lift_joint" value="-1.58511348" />
+        <joint name="elbow_flex_joint" value="2.38278349" />
+        <joint name="wrist_flex_joint" value="0.79255674" />
+        <joint name="wrist_pan_joint" value="-0.26077673" />
+    </group_state>
+    <group_state name="D3_2grab" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.21475731" />
+        <joint name="shoulder_lift_joint" value="-1.42148886" />
+        <joint name="elbow_flex_joint" value="2.43391618" />
+        <joint name="wrist_flex_joint" value="0.60847905" />
+        <joint name="wrist_pan_joint" value="-0.26589000" />
+    </group_state>
+    <group_state name="D3_3over" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.15339808" />
+        <joint name="shoulder_lift_joint" value="-1.43682867" />
+        <joint name="elbow_flex_joint" value="2.37767022" />
+        <joint name="wrist_flex_joint" value="-0.94084155" />
+        <joint name="wrist_pan_joint" value="0.03579289" />
+    </group_state>
+    <group_state name="D3_4drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.12783173" />
+        <joint name="shoulder_lift_joint" value="-0.83857616" />
+        <joint name="elbow_flex_joint" value="2.22938541" />
+        <joint name="wrist_flex_joint" value="-1.34478982" />
+        <joint name="wrist_pan_joint" value="0.03579289" />
+    </group_state>
+    <group_state name="D3_5over" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.18919096" />
+        <joint name="shoulder_lift_joint" value="-1.13003251" />
+        <joint name="elbow_flex_joint" value="1.78964425" />
+        <joint name="wrist_flex_joint" value="1.00731405" />
+        <joint name="wrist_pan_joint" value="0.03067962" />
+    </group_state>
+    <group_state name="D3_6grab" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.17385116" />
+        <joint name="shoulder_lift_joint" value="-0.99197424" />
+        <joint name="elbow_flex_joint" value="1.79987079" />
+        <joint name="wrist_flex_joint" value="0.82323636" />
+        <joint name="wrist_pan_joint" value="0.03067962" />
+    </group_state>
+    <group_state name="D3_7over" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.15851135" />
+        <joint name="shoulder_lift_joint" value="-1.28854386" />
+        <joint name="elbow_flex_joint" value="2.30097118" />
+        <joint name="wrist_flex_joint" value="-0.94084155" />
+        <joint name="wrist_pan_joint" value="0.03067962" />
+    </group_state>
+    <group_state name="D3_8drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.14317154" />
+        <joint name="shoulder_lift_joint" value="-0.85391597" />
+        <joint name="elbow_flex_joint" value="2.28563137" />
+        <joint name="wrist_flex_joint" value="-1.36524290" />
+        <joint name="wrist_pan_joint" value="0.02556635" />
+    </group_state>
+    <group_state name="D4_1over" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.60847905" />
+        <joint name="shoulder_lift_joint" value="-1.49818790" />
+        <joint name="elbow_flex_joint" value="2.32142426" />
+        <joint name="wrist_flex_joint" value="0.79255674" />
+        <joint name="wrist_pan_joint" value="-0.70051789" />
+    </group_state>
+    <group_state name="D4_2grab" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.59825251" />
+        <joint name="shoulder_lift_joint" value="-1.34478982" />
+        <joint name="elbow_flex_joint" value="2.34187734" />
+        <joint name="wrist_flex_joint" value="0.56757289" />
+        <joint name="wrist_pan_joint" value="-0.70051789" />
+    </group_state>
+    <group_state name="D4_3over" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.39372174" />
+        <joint name="shoulder_lift_joint" value="-1.32433675" />
+        <joint name="elbow_flex_joint" value="2.21915887" />
+        <joint name="wrist_flex_joint" value="-0.83346289" />
+        <joint name="wrist_pan_joint" value="0.01022654" />
+    </group_state>
+    <group_state name="D4_4drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.39883500" />
+        <joint name="shoulder_lift_joint" value="-0.82834963" />
+        <joint name="elbow_flex_joint" value="2.20381907" />
+        <joint name="wrist_flex_joint" value="-1.31922348" />
+        <joint name="wrist_pan_joint" value="0.01533981" />
+    </group_state>
+    <group_state name="D4_5over" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.40906154" />
+        <joint name="shoulder_lift_joint" value="-1.21184482" />
+        <joint name="elbow_flex_joint" value="1.75385137" />
+        <joint name="wrist_flex_joint" value="1.14025905" />
+        <joint name="wrist_pan_joint" value="0.01533981" />
+    </group_state>
+    <group_state name="D4_6grab" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.41417481" />
+        <joint name="shoulder_lift_joint" value="-0.91527520" />
+        <joint name="elbow_flex_joint" value="1.68737887" />
+        <joint name="wrist_flex_joint" value="0.88970886" />
+        <joint name="wrist_pan_joint" value="0.01533981" />
+    </group_state>
+    <group_state name="D4_7over" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.44485443" />
+        <joint name="shoulder_lift_joint" value="-1.33967655" />
+        <joint name="elbow_flex_joint" value="2.12200676" />
+        <joint name="wrist_flex_joint" value="-0.66983828" />
+        <joint name="wrist_pan_joint" value="0.05113269" />
+    </group_state>
+    <group_state name="D4_8drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.41417481" />
+        <joint name="shoulder_lift_joint" value="-0.83857616" />
+        <joint name="elbow_flex_joint" value="2.18336599" />
+        <joint name="wrist_flex_joint" value="-1.27320405" />
+        <joint name="wrist_pan_joint" value="0.05113269" />
+    </group_state>
+    <group_state name="EB1drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.46530751" />
+        <joint name="shoulder_lift_joint" value="-0.37326866" />
+        <joint name="elbow_flex_joint" value="0.50110039" />
+        <joint name="wrist_flex_joint" value="1.28343059" />
+        <joint name="wrist_pan_joint" value="-1.78453098" />
+    </group_state>
+    <group_state name="EB2drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.48064731" />
+        <joint name="shoulder_lift_joint" value="-0.47042077" />
+        <joint name="elbow_flex_joint" value="0.64938520" />
+        <joint name="wrist_flex_joint" value="1.38569598" />
+        <joint name="wrist_pan_joint" value="-1.78453098" />
+    </group_state>
+    <group_state name="EB3drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.51132693" />
+        <joint name="shoulder_lift_joint" value="-0.63404539" />
+        <joint name="elbow_flex_joint" value="0.96640790" />
+        <joint name="wrist_flex_joint" value="1.24763771" />
+        <joint name="wrist_pan_joint" value="-1.78453098" />
+    </group_state>
+    <group_state name="EB4drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.57268616" />
+        <joint name="shoulder_lift_joint" value="-0.77210366" />
+        <joint name="elbow_flex_joint" value="1.21184482" />
+        <joint name="wrist_flex_joint" value="1.16582540" />
+        <joint name="wrist_pan_joint" value="-1.77941771" />
+    </group_state>
+    <group_state name="EB5drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.63404539" />
+        <joint name="shoulder_lift_joint" value="-0.89993540" />
+        <joint name="elbow_flex_joint" value="1.42148886" />
+        <joint name="wrist_flex_joint" value="1.06867328" />
+        <joint name="wrist_pan_joint" value="-1.78453098" />
+    </group_state>
+    <group_state name="EB6drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.69540462" />
+        <joint name="shoulder_lift_joint" value="-0.99708751" />
+        <joint name="elbow_flex_joint" value="1.58000021" />
+        <joint name="wrist_flex_joint" value="0.99708751" />
+        <joint name="wrist_pan_joint" value="-1.77941771" />
+    </group_state>
+    <group_state name="EB7drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.89482213" />
+        <joint name="shoulder_lift_joint" value="-0.82834963" />
+        <joint name="elbow_flex_joint" value="1.30899694" />
+        <joint name="wrist_flex_joint" value="1.04822021" />
+        <joint name="wrist_pan_joint" value="0.70563116" />
+    </group_state>
+    <group_state name="EB8drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.86414251" />
+        <joint name="shoulder_lift_joint" value="-0.69540462" />
+        <joint name="elbow_flex_joint" value="1.07889982" />
+        <joint name="wrist_flex_joint" value="1.20673155" />
+        <joint name="wrist_pan_joint" value="0.70563116" />
+    </group_state>
+    <group_state name="EB9drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.80278328" />
+        <joint name="shoulder_lift_joint" value="-0.55223308" />
+        <joint name="elbow_flex_joint" value="0.82323636" />
+        <joint name="wrist_flex_joint" value="1.26809078" />
+        <joint name="wrist_pan_joint" value="0.49087385" />
+    </group_state>
+    <group_state name="EBAdrop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.74653732" />
+        <joint name="shoulder_lift_joint" value="-0.38349520" />
+        <joint name="elbow_flex_joint" value="0.50621366" />
+        <joint name="wrist_flex_joint" value="1.38569598" />
+        <joint name="wrist_pan_joint" value="0.50110039" />
+    </group_state>
+    <group_state name="EBBdrop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.68517809" />
+        <joint name="shoulder_lift_joint" value="-0.19941750" />
+        <joint name="elbow_flex_joint" value="0.15339808" />
+        <joint name="wrist_flex_joint" value="1.36524290" />
+        <joint name="wrist_pan_joint" value="0.50110039" />
+    </group_state>
+    <group_state name="EBCdrop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.64938520" />
+        <joint name="shoulder_lift_joint" value="-0.16873789" />
+        <joint name="elbow_flex_joint" value="0.10226539" />
+        <joint name="wrist_flex_joint" value="1.07378655" />
+        <joint name="wrist_pan_joint" value="0.50110039" />
+    </group_state>
+    <group_state name="G_1over" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-2.07087406" />
+        <joint name="shoulder_lift_joint" value="-1.94815560" />
+        <joint name="elbow_flex_joint" value="2.41346311" />
+        <joint name="wrist_flex_joint" value="1.03799367" />
+        <joint name="wrist_pan_joint" value="-0.12271846" />
+    </group_state>
+    <group_state name="G_2grab" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-2.10666695" />
+        <joint name="shoulder_lift_joint" value="-1.68226560" />
+        <joint name="elbow_flex_joint" value="2.47482234" />
+        <joint name="wrist_flex_joint" value="0.75676386" />
+        <joint name="wrist_pan_joint" value="-0.17385116" />
+    </group_state>
+    <group_state name="G_3pull" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-2.11178022" />
+        <joint name="shoulder_lift_joint" value="-1.80498406" />
+        <joint name="elbow_flex_joint" value="2.45436926" />
+        <joint name="wrist_flex_joint" value="0.95618136" />
+        <joint name="wrist_pan_joint" value="-0.17385116" />
+    </group_state>
+    <group_state name="L1_1over" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.71074443" />
+        <joint name="shoulder_lift_joint" value="-1.30899694" />
+        <joint name="elbow_flex_joint" value="2.21915887" />
+        <joint name="wrist_flex_joint" value="0.61870558" />
+        <joint name="wrist_pan_joint" value="0.70051789" />
+    </group_state>
+    <group_state name="L1_2grab" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.71074443" />
+        <joint name="shoulder_lift_joint" value="-1.23741117" />
+        <joint name="elbow_flex_joint" value="2.21915887" />
+        <joint name="wrist_flex_joint" value="0.61359232" />
+        <joint name="wrist_pan_joint" value="0.70051789" />
+    </group_state>
+    <group_state name="L2_1over" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.39883500" />
+        <joint name="shoulder_lift_joint" value="-1.41126232" />
+        <joint name="elbow_flex_joint" value="2.36744368" />
+        <joint name="wrist_flex_joint" value="0.68006482" />
+        <joint name="wrist_pan_joint" value="0.39372174" />
+    </group_state>
+    <group_state name="L2_2grab" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.39883500" />
+        <joint name="shoulder_lift_joint" value="-1.33967655" />
+        <joint name="elbow_flex_joint" value="2.36744368" />
+        <joint name="wrist_flex_joint" value="0.68006482" />
+        <joint name="wrist_pan_joint" value="0.38860847" />
+    </group_state>
+    <group_state name="L3_1over" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.01022654" />
+        <joint name="shoulder_lift_joint" value="-1.46239502" />
+        <joint name="elbow_flex_joint" value="2.41346311" />
+        <joint name="wrist_flex_joint" value="0.71074443" />
+        <joint name="wrist_pan_joint" value="0.02556635" />
+    </group_state>
+    <group_state name="L3_2grab" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.01022654" />
+        <joint name="shoulder_lift_joint" value="-1.42660213" />
+        <joint name="elbow_flex_joint" value="2.44925599" />
+        <joint name="wrist_flex_joint" value="0.56757289" />
+        <joint name="wrist_pan_joint" value="0.02556635" />
+    </group_state>
+    <group_state name="L4_1over" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.41417481" />
+        <joint name="shoulder_lift_joint" value="-1.46239502" />
+        <joint name="elbow_flex_joint" value="2.39812330" />
+        <joint name="wrist_flex_joint" value="0.61870558" />
+        <joint name="wrist_pan_joint" value="-0.40394827" />
+    </group_state>
+    <group_state name="L4_2grab" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.41417481" />
+        <joint name="shoulder_lift_joint" value="-1.38569598" />
+        <joint name="elbow_flex_joint" value="2.38789676" />
+        <joint name="wrist_flex_joint" value="0.61870558" />
+        <joint name="wrist_pan_joint" value="-0.40394827" />
+    </group_state>
+    <group_state name="L5_1over" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.70051789" />
+        <joint name="shoulder_lift_joint" value="-1.30899694" />
+        <joint name="elbow_flex_joint" value="2.23449868" />
+        <joint name="wrist_flex_joint" value="0.72608424" />
+        <joint name="wrist_pan_joint" value="-0.60336578" />
+    </group_state>
+    <group_state name="L5_2grab" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.70051789" />
+        <joint name="shoulder_lift_joint" value="-1.27320405" />
+        <joint name="elbow_flex_joint" value="2.27029157" />
+        <joint name="wrist_flex_joint" value="0.58802597" />
+        <joint name="wrist_pan_joint" value="-0.60336578" />
+    </group_state>
+    <group_state name="NB1drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.21475731" />
+        <joint name="shoulder_lift_joint" value="-0.40906154" />
+        <joint name="elbow_flex_joint" value="0.57268616" />
+        <joint name="wrist_flex_joint" value="1.43171540" />
+        <joint name="wrist_pan_joint" value="0.11760519" />
+    </group_state>
+    <group_state name="NB2drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.13294500" />
+        <joint name="shoulder_lift_joint" value="-0.47042077" />
+        <joint name="elbow_flex_joint" value="0.64427193" />
+        <joint name="wrist_flex_joint" value="1.43171540" />
+        <joint name="wrist_pan_joint" value="0.11760519" />
+    </group_state>
+    <group_state name="NB3drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.05624596" />
+        <joint name="shoulder_lift_joint" value="-0.48576058" />
+        <joint name="elbow_flex_joint" value="0.69029135" />
+        <joint name="wrist_flex_joint" value="1.43171540" />
+        <joint name="wrist_pan_joint" value="0.11760519" />
+    </group_state>
+    <group_state name="NB4drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.03067962" />
+        <joint name="shoulder_lift_joint" value="-0.50621366" />
+        <joint name="elbow_flex_joint" value="0.71585770" />
+        <joint name="wrist_flex_joint" value="1.43171540" />
+        <joint name="wrist_pan_joint" value="0.01533981" />
+    </group_state>
+    <group_state name="NB5drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.11249192" />
+        <joint name="shoulder_lift_joint" value="-0.47042077" />
+        <joint name="elbow_flex_joint" value="0.60847905" />
+        <joint name="wrist_flex_joint" value="1.50330117" />
+        <joint name="wrist_pan_joint" value="-0.17896443" />
+    </group_state>
+    <group_state name="NB6drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.19941750" />
+        <joint name="shoulder_lift_joint" value="-0.43462789" />
+        <joint name="elbow_flex_joint" value="0.56757289" />
+        <joint name="wrist_flex_joint" value="1.50841444" />
+        <joint name="wrist_pan_joint" value="-0.17896443" />
+    </group_state>
+    <group_state name="NB7drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.23009712" />
+        <joint name="shoulder_lift_joint" value="-0.24032366" />
+        <joint name="elbow_flex_joint" value="0.19430423" />
+        <joint name="wrist_flex_joint" value="1.43682867" />
+        <joint name="wrist_pan_joint" value="-0.17896443" />
+    </group_state>
+    <group_state name="NB8drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.15851135" />
+        <joint name="shoulder_lift_joint" value="-0.27100327" />
+        <joint name="elbow_flex_joint" value="0.27100327" />
+        <joint name="wrist_flex_joint" value="1.43682867" />
+        <joint name="wrist_pan_joint" value="-0.17896443" />
+    </group_state>
+    <group_state name="NB9drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.07669904" />
+        <joint name="shoulder_lift_joint" value="-0.27611654" />
+        <joint name="elbow_flex_joint" value="0.31190943" />
+        <joint name="wrist_flex_joint" value="1.43682867" />
+        <joint name="wrist_pan_joint" value="-0.17896443" />
+    </group_state>
+    <group_state name="NBAdrop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.01022654" />
+        <joint name="shoulder_lift_joint" value="-0.26077673" />
+        <joint name="elbow_flex_joint" value="0.28122981" />
+        <joint name="wrist_flex_joint" value="1.43682867" />
+        <joint name="wrist_pan_joint" value="-0.17385116" />
+    </group_state>
+    <group_state name="NBBdrop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.08692558" />
+        <joint name="shoulder_lift_joint" value="-0.25566346" />
+        <joint name="elbow_flex_joint" value="0.24543693" />
+        <joint name="wrist_flex_joint" value="1.43682867" />
+        <joint name="wrist_pan_joint" value="-0.17896443" />
+    </group_state>
+    <group_state name="NBCdrop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.19941750" />
+        <joint name="shoulder_lift_joint" value="-0.27100327" />
+        <joint name="elbow_flex_joint" value="0.23521039" />
+        <joint name="wrist_flex_joint" value="1.43682867" />
+        <joint name="wrist_pan_joint" value="-0.17896443" />
+    </group_state>
+    <group_state name="NL1drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.23009712" />
+        <joint name="shoulder_lift_joint" value="-0.55734635" />
+        <joint name="elbow_flex_joint" value="0.85902924" />
+        <joint name="wrist_flex_joint" value="1.32433675" />
+        <joint name="wrist_pan_joint" value="-1.25786425" />
+    </group_state>
+    <group_state name="NL2drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.17896443" />
+        <joint name="shoulder_lift_joint" value="-0.60336578" />
+        <joint name="elbow_flex_joint" value="0.89993540" />
+        <joint name="wrist_flex_joint" value="1.37546944" />
+        <joint name="wrist_pan_joint" value="-1.25786425" />
+    </group_state>
+    <group_state name="NL3drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.07669904" />
+        <joint name="shoulder_lift_joint" value="-0.61359232" />
+        <joint name="elbow_flex_joint" value="0.91016193" />
+        <joint name="wrist_flex_joint" value="1.40103579" />
+        <joint name="wrist_pan_joint" value="-1.42660213" />
+    </group_state>
+    <group_state name="NL4drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.01022654" />
+        <joint name="shoulder_lift_joint" value="-0.60336578" />
+        <joint name="elbow_flex_joint" value="0.87436905" />
+        <joint name="wrist_flex_joint" value="1.40103579" />
+        <joint name="wrist_pan_joint" value="-1.42660213" />
+    </group_state>
+    <group_state name="NL5drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.09715212" />
+        <joint name="shoulder_lift_joint" value="-0.59825251" />
+        <joint name="elbow_flex_joint" value="0.89482213" />
+        <joint name="wrist_flex_joint" value="1.40103579" />
+        <joint name="wrist_pan_joint" value="-1.42660213" />
+    </group_state>
+    <group_state name="NL6drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.20964404" />
+        <joint name="shoulder_lift_joint" value="-0.55734635" />
+        <joint name="elbow_flex_joint" value="0.83857616" />
+        <joint name="wrist_flex_joint" value="1.40103579" />
+        <joint name="wrist_pan_joint" value="-1.71294521" />
+    </group_state>
+    <group_state name="NL7drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.19941750" />
+        <joint name="shoulder_lift_joint" value="-0.41928808" />
+        <joint name="elbow_flex_joint" value="0.55734635" />
+        <joint name="wrist_flex_joint" value="1.40614906" />
+        <joint name="wrist_pan_joint" value="-1.71294521" />
+    </group_state>
+    <group_state name="NL8drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.13294500" />
+        <joint name="shoulder_lift_joint" value="-0.45508097" />
+        <joint name="elbow_flex_joint" value="0.57268616" />
+        <joint name="wrist_flex_joint" value="1.43171540" />
+        <joint name="wrist_pan_joint" value="-1.71294521" />
+    </group_state>
+    <group_state name="NL9drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.05113269" />
+        <joint name="shoulder_lift_joint" value="-0.46530751" />
+        <joint name="elbow_flex_joint" value="0.59313924" />
+        <joint name="wrist_flex_joint" value="1.43171540" />
+        <joint name="wrist_pan_joint" value="-1.71294521" />
+    </group_state>
+    <group_state name="NLAdrop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.05624596" />
+        <joint name="shoulder_lift_joint" value="-0.44485443" />
+        <joint name="elbow_flex_joint" value="0.59313924" />
+        <joint name="wrist_flex_joint" value="1.43171540" />
+        <joint name="wrist_pan_joint" value="-1.56977367" />
+    </group_state>
+    <group_state name="NLBdrop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.13294500" />
+        <joint name="shoulder_lift_joint" value="-0.41417481" />
+        <joint name="elbow_flex_joint" value="0.57779943" />
+        <joint name="wrist_flex_joint" value="1.43171540" />
+        <joint name="wrist_pan_joint" value="-1.43682867" />
+    </group_state>
+    <group_state name="NLCdrop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.20453077" />
+        <joint name="shoulder_lift_joint" value="-0.39883500" />
+        <joint name="elbow_flex_joint" value="0.52666674" />
+        <joint name="wrist_flex_joint" value="1.43171540" />
+        <joint name="wrist_pan_joint" value="-1.43682867" />
+    </group_state>
+    <group_state name="P1_1over" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.98686097" />
+        <joint name="shoulder_lift_joint" value="-1.23229790" />
+        <joint name="elbow_flex_joint" value="2.02485464" />
+        <joint name="wrist_flex_joint" value="0.83346289" />
+        <joint name="wrist_pan_joint" value="0.58802597" />
+    </group_state>
+    <group_state name="P1_2grab" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="0.97663443" />
+        <joint name="shoulder_lift_joint" value="-1.15048559" />
+        <joint name="elbow_flex_joint" value="2.01974137" />
+        <joint name="wrist_flex_joint" value="0.72608424" />
+        <joint name="wrist_pan_joint" value="0.59825251" />
+    </group_state>
+    <group_state name="P2_1over" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="1.23741117" />
+        <joint name="shoulder_lift_joint" value="-1.31411021" />
+        <joint name="elbow_flex_joint" value="2.12712003" />
+        <joint name="wrist_flex_joint" value="0.70563116" />
+        <joint name="wrist_pan_joint" value="0.26077673" />
+    </group_state>
+    <group_state name="P2_2grab" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="1.23741117" />
+        <joint name="shoulder_lift_joint" value="-1.19139175" />
+        <joint name="elbow_flex_joint" value="2.08621387" />
+        <joint name="wrist_flex_joint" value="0.70563116" />
+        <joint name="wrist_pan_joint" value="0.26077673" />
+    </group_state>
+    <group_state name="P3_1over" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="1.52375425" />
+        <joint name="shoulder_lift_joint" value="-1.32433675" />
+        <joint name="elbow_flex_joint" value="2.16291291" />
+        <joint name="wrist_flex_joint" value="0.71074443" />
+        <joint name="wrist_pan_joint" value="0.00000000" />
+    </group_state>
+    <group_state name="P3_2grab" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="1.52375425" />
+        <joint name="shoulder_lift_joint" value="-1.23741117" />
+        <joint name="elbow_flex_joint" value="2.15779964" />
+        <joint name="wrist_flex_joint" value="0.63915866" />
+        <joint name="wrist_pan_joint" value="0.00000000" />
+    </group_state>
+    <group_state name="P4_1over" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="1.81521060" />
+        <joint name="shoulder_lift_joint" value="-1.26809078" />
+        <joint name="elbow_flex_joint" value="2.11178022" />
+        <joint name="wrist_flex_joint" value="0.75165059" />
+        <joint name="wrist_pan_joint" value="-0.33747577" />
+    </group_state>
+    <group_state name="P4_2grab" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="1.81521060" />
+        <joint name="shoulder_lift_joint" value="-1.21184482" />
+        <joint name="elbow_flex_joint" value="2.11178022" />
+        <joint name="wrist_flex_joint" value="0.70051789" />
+        <joint name="wrist_pan_joint" value="-0.33747577" />
+    </group_state>
+    <group_state name="P5_1over" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="2.09132714" />
+        <joint name="shoulder_lift_joint" value="-1.17605194" />
+        <joint name="elbow_flex_joint" value="2.00440156" />
+        <joint name="wrist_flex_joint" value="0.75676386" />
+        <joint name="wrist_pan_joint" value="-0.56245962" />
+    </group_state>
+    <group_state name="P5_2grab" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="2.07087406" />
+        <joint name="shoulder_lift_joint" value="-1.14025905" />
+        <joint name="elbow_flex_joint" value="2.01462810" />
+        <joint name="wrist_flex_joint" value="0.74142405" />
+        <joint name="wrist_pan_joint" value="-0.56245962" />
+    </group_state>
+    <group_state name="WB1drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.80789655" />
+        <joint name="shoulder_lift_joint" value="-1.04310694" />
+        <joint name="elbow_flex_joint" value="1.62090637" />
+        <joint name="wrist_flex_joint" value="0.96129463" />
+        <joint name="wrist_pan_joint" value="-2.11689349" />
+    </group_state>
+    <group_state name="WB2drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.64427193" />
+        <joint name="shoulder_lift_joint" value="-0.95106809" />
+        <joint name="elbow_flex_joint" value="1.45216848" />
+        <joint name="wrist_flex_joint" value="1.02265386" />
+        <joint name="wrist_pan_joint" value="2.01974137" />
+    </group_state>
+    <group_state name="WB3drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.57779943" />
+        <joint name="shoulder_lift_joint" value="-0.82834963" />
+        <joint name="elbow_flex_joint" value="1.25275098" />
+        <joint name="wrist_flex_joint" value="1.14025905" />
+        <joint name="wrist_pan_joint" value="2.01974137" />
+    </group_state>
+    <group_state name="WB4drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.51132693" />
+        <joint name="shoulder_lift_joint" value="-0.68517809" />
+        <joint name="elbow_flex_joint" value="1.01242732" />
+        <joint name="wrist_flex_joint" value="1.24763771" />
+        <joint name="wrist_pan_joint" value="2.02485464" />
+    </group_state>
+    <group_state name="WB5drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.47042077" />
+        <joint name="shoulder_lift_joint" value="-0.54200655" />
+        <joint name="elbow_flex_joint" value="0.78744347" />
+        <joint name="wrist_flex_joint" value="1.30388367" />
+        <joint name="wrist_pan_joint" value="2.02485464" />
+    </group_state>
+    <group_state name="WB6drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.43462789" />
+        <joint name="shoulder_lift_joint" value="-0.34258904" />
+        <joint name="elbow_flex_joint" value="0.41417481" />
+        <joint name="wrist_flex_joint" value="1.40103579" />
+        <joint name="wrist_pan_joint" value="2.03508118" />
+    </group_state>
+    <group_state name="WB7drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.56245962" />
+        <joint name="shoulder_lift_joint" value="-0.24543693" />
+        <joint name="elbow_flex_joint" value="0.26077673" />
+        <joint name="wrist_flex_joint" value="1.00731405" />
+        <joint name="wrist_pan_joint" value="-0.50110039" />
+    </group_state>
+    <group_state name="WB8drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.61359232" />
+        <joint name="shoulder_lift_joint" value="-0.39883500" />
+        <joint name="elbow_flex_joint" value="0.53178001" />
+        <joint name="wrist_flex_joint" value="1.01242732" />
+        <joint name="wrist_pan_joint" value="-0.50110039" />
+    </group_state>
+    <group_state name="WB9drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.63404539" />
+        <joint name="shoulder_lift_joint" value="-0.51644020" />
+        <joint name="elbow_flex_joint" value="0.76699039" />
+        <joint name="wrist_flex_joint" value="1.00731405" />
+        <joint name="wrist_pan_joint" value="-0.50110039" />
+    </group_state>
+    <group_state name="WBAdrop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.73631078" />
+        <joint name="shoulder_lift_joint" value="-0.56757289" />
+        <joint name="elbow_flex_joint" value="0.86925578" />
+        <joint name="wrist_flex_joint" value="1.23229790" />
+        <joint name="wrist_pan_joint" value="-0.62893212" />
+    </group_state>
+    <group_state name="WBBdrop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.79255674" />
+        <joint name="shoulder_lift_joint" value="-0.65961174" />
+        <joint name="elbow_flex_joint" value="1.01242732" />
+        <joint name="wrist_flex_joint" value="1.22718463" />
+        <joint name="wrist_pan_joint" value="-0.62893212" />
+    </group_state>
+    <group_state name="WBCdrop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.86925578" />
+        <joint name="shoulder_lift_joint" value="-0.78744347" />
+        <joint name="elbow_flex_joint" value="1.21695809" />
+        <joint name="wrist_flex_joint" value="1.13514578" />
+        <joint name="wrist_pan_joint" value="-0.62381885" />
+    </group_state>
+    <group_state name="WP1drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.64427193" />
+        <joint name="shoulder_lift_joint" value="-0.75676386" />
+        <joint name="elbow_flex_joint" value="1.16071213" />
+        <joint name="wrist_flex_joint" value="1.23741117" />
+        <joint name="wrist_pan_joint" value="0.65961174" />
+    </group_state>
+    <group_state name="WP2drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.51132693" />
+        <joint name="shoulder_lift_joint" value="-0.41928808" />
+        <joint name="elbow_flex_joint" value="0.57268616" />
+        <joint name="wrist_flex_joint" value="1.42660213" />
+        <joint name="wrist_pan_joint" value="0.54200655" />
+    </group_state>
+    <group_state name="WP3drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.61359232" />
+        <joint name="shoulder_lift_joint" value="-0.30679616" />
+        <joint name="elbow_flex_joint" value="0.33747577" />
+        <joint name="wrist_flex_joint" value="1.50841444" />
+        <joint name="wrist_pan_joint" value="0.53689328" />
+    </group_state>
+    <group_state name="WP4drop" group="arm">
+        <joint name="shoulder_plate_rotate_joint" value="-0.74653732" />
+        <joint name="shoulder_lift_joint" value="-0.66983828" />
+        <joint name="elbow_flex_joint" value="1.04822021" />
+        <joint name="wrist_flex_joint" value="1.21695809" />
+        <joint name="wrist_pan_joint" value="0.74142405" />
+    </group_state>

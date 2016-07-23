@@ -1,0 +1,20 @@
+<package>
+  <name>so_arm_bringup</name>
+  <version>0.0.1</version>
+  <description>
+   so_arm_bringup provides launch files for starting the drivers for the SO arm.
+  </description>
+  <author>Marco Walther</author>
+  <author>Michael Ferguson</author>
+  <author>Helen Oleynikova</author>
+  <author>Melonee Wise</author>
+  <maintainer email="marco@sonic.net">Marco Walther</maintainer>
+  <license>BSD</license>
+
+  <url>http://ros.org/wiki/so_arm_bringup_NOT_REALLY</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <run_depend>arbotix_python</run_depend>
+  <run_depend>arbotix_controllers</run_depend>
+</package>

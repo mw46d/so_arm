@@ -1,0 +1,21 @@
+<launch>
+  <arg name="sim" default="false"/>
+
+  <param name="robot_description" textfile="$(find so_arm_description)/urdf/so_arm.urdf"/>
+  <node name="robot_state_pub" pkg="robot_state_publisher" type="robot_state_publisher"/>
+
+  <node name="arbotix" pkg="arbotix_python" type="arbotix_driver" output="screen">
+    <rosparam file="$(find so_arm_bringup)/config/so_arm.yaml" command="load"/>
+    <param name="port" value="/dev/ttyUSB0"/>
+    <param name="sim" value="$(arg sim)"/>
+  </node>
+
+  <node name="gripper_controller" pkg="arbotix_controllers" type="gripper_controller" output="screen">
+    <rosparam file="$(find so_arm_bringup)/config/so_gripper.yaml" command="load" />
+  </node>
+
+  <include file="$(find so_arm_moveit_config)/launch/move_group.launch" />
+
+  <node pkg="rviz" type="rviz" name="rviz" args="-d $(find so_arm_nav)/config/arm_nav.rviz" />
+  <node pkg="so_arm_nav" type="moveit" name="moveit" />
+</launch>
